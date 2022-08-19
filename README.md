@@ -31,7 +31,8 @@ Also, I added Data Search (S) CRUDS.
 
 ## Video
 
-https://youtu.be/9lgYFYCgGqM
+[![Alt text](https://img.youtube.com/vi/9lgYFYCgGqM/0.jpg)](https://www.youtube.com/watch?v=9lgYFYCgGqM)
+
 
 
 ## Feedback
