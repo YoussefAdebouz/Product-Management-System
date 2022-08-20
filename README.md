@@ -39,6 +39,3 @@ Also, I added Data Search (S) CRUDS.
 
 If you have any feedback, please reach out to me at https://discord.com/users/Geek#6054
 
-
-##  My profile
-[![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/youssefadbz)
